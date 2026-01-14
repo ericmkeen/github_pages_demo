@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Step 5:** Give your `Rmarkdown` doc a title, then add the phrase *"Under construction!"*  
 
-**Step 6:** **Knit** your Rmarkdown file once you are ready to share it with the world. There should now be a file in your "`docs`" file with the name "`index.html`".
+**Step 6:** **Knit** your Rmarkdown file. There should now be a file in your "`docs`" file with the name "`index.html`".
 
 **Step 7:** In Terminal, commit these changes to your repo and push them to the main branch. 
 
