@@ -94,7 +94,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp; 
 
-**Done!** 
+**Step 19:** By editing and committing the changes to that `README` file, you have updated your repo. Make sure the local version of your repo is up-to-date by running `git pull` in your Terminal.  *Always* run `git pull` locally whenever you change anything about your repo on the Github website!  
+
+&nbsp; 
+
+**Done!**   
+
 Your main repo page is now showing your updated `README` file.  
 
 You can now share your project by sharing either the link to your repo or the direct link to your Github Pages link!  
